@@ -43,7 +43,7 @@ public class Calculator {
 	}
 
 	/**
-	 * Create the application.
+	 * Create the application.dasd
 	 */
 	public Calculator() {
 		initialize();
